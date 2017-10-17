@@ -25,9 +25,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Denniskamau/Restfull-API/issues"
+    "url": "https://github.com/GeorgeKihara/Simple_Restful_API/issues"
   },
-  "homepage": "https://github.com/Denniskamau/Restfull-API#readme",
+  "homepage": "https://github.com/GeorgeKihara/Simple_Restful_API#readme",
   "devDependencies": {
     "nodemon": "^1.12.1"
   }
